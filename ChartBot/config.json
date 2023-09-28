@@ -1,0 +1,10 @@
+﻿{
+  "token": "",
+  //"askToUserId": 447034349 //adri
+  "askToUserId": 447034349, //rod,
+  "sendNotificationOnMessage": true,
+  "admins": [
+    685118837,
+    447034349
+  ]
+}
